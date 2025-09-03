@@ -71,7 +71,9 @@ $result = $conn->query($sql);
   </div>
 </nav>
     <div class="container">
-        <h1 class="mb-4">Users</h1>
+<h1 style="color: blue;">
+  If at first you don’t succeed; call it version 1.0
+</h1>        <h1 class="mb-4">Users</h1>
         <table class="table table-striped">
             <thead>
                 <tr>
